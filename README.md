@@ -20,7 +20,9 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe-CC-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
+
 
 ---
 
